@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Website Redesign",
+    "status": "In Progress"
+  },
+  {
+    "id": 2,
+    "name": "Mobile App",
+    "status": "Completed"
+  },
+  {
+    "id": 3,
+    "name": "Admin Panel",
+    "status": "Pending"
+  }
+]
