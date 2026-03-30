@@ -1,4 +1,4 @@
-# React + Vite
+# React
 
 # 📊 Enterprise Project Management Dashboard
 
@@ -112,7 +112,7 @@ src/
 
 ## 🚀 Deployment
 
-> Deployment will be done using Vercel
+[> Deployment will be done using Vercel](https://major-industry-project.vercel.app/)
 
 ---
 
