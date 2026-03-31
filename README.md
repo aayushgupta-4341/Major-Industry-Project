@@ -1,14 +1,14 @@
 # React
 
-# 📊 Enterprise Project Management Dashboard
+# Enterprise Project Management Dashboard
 
-## ⚙️ Project Setup (Vite + React)
+## Project Setup (Vite + React)
 
 This project is built using **Vite + React**, which provides a fast development environment with:
 
-* ⚡ Hot Module Replacement (HMR)
-* 🧹 ESLint for code quality
-* ⚛️ Optimized React setup
+* Hot Module Replacement (HMR)
+* ESLint for code quality
+* Optimized React setup
 
 Vite supports official plugins like:
 
@@ -19,7 +19,7 @@ These tools improve performance and development speed.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project is developed as part of the **Full Stack Web Development Internship Program (Major Industry Project)**.
 
@@ -29,14 +29,14 @@ It simulates a real-world **internal SaaS admin panel** used by companies for pr
 
 ---
 
-## 🎯 Project Duration
+## Project Duration
 
 **Start Date:** 18 March 2026
 **End Date:** 31 March 2026
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * React (Vite)
 * JavaScript (ES6+)
@@ -45,7 +45,7 @@ It simulates a real-world **internal SaaS admin panel** used by companies for pr
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 src/
@@ -67,20 +67,20 @@ src/
 
 ---
 
-## ⚙️ Core Features
+## Core Features
 
-* 📊 Dashboard Overview (Project Statistics)
-* 📋 Dynamic Project Listing Table
-* 🔍 Status-Based Filtering (All / Completed / In Progress / Pending)
-* ➕ Task Creation Functionality
-* 🔁 Task Status Update Feature
-* 🎨 Conditional Color-Coded Status Indicators
-* 📱 Fully Responsive Layout
-* 🧩 Modular Component-Based Architecture
+* Dashboard Overview (Project Statistics)
+* Dynamic Project Listing Table
+* Status-Based Filtering (All / Completed / In Progress / Pending)
+* Task Creation Functionality
+* Task Status Update Feature
+* Conditional Color-Coded Status Indicators
+* Fully Responsive Layout
+* Modular Component-Based Architecture
 
 ---
 
-## 📅 Day-wise Development Timeline
+## Day-wise Development Timeline
 
 | Day       | Date        | Work Completed                                  |
 | --------- | ----------- | ----------------------------------------------- |
@@ -100,7 +100,7 @@ src/
 
 ---
 
-## 🧠 Learning Outcomes
+## Learning Outcomes
 
 * Building scalable React component architecture
 * Managing state effectively using React Hooks
@@ -110,19 +110,29 @@ src/
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
-[> Deployment will be done using Vercel](https://major-industry-project.vercel.app/)
+> Deployed using Vercel / Netlify
 
 ---
 
-## 👨‍💻 Author
+## Project Links
+
+* GitHub Repository:
+ https://github.com/aayushgupta-4341/Major-Industry-Project.git
+
+* Live Deployment:
+ https://major-industry-project.vercel.app/
+
+---
+
+## Author
 
 **Aayush Gupta**
 Full Stack Web Development Internship – 2026
 
 ---
 
-## ⚠️ Note
+## Note
 
 This project is developed as part of an **industry simulation internship** and follows professional coding standards, structured architecture, and real-world implementation practices.
