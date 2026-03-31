@@ -1,4 +1,3 @@
-# React
 
 # Enterprise Project Management Dashboard
 
